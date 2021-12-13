@@ -1,0 +1,76 @@
+body {
+ background-image: url("https://fondosmil.com/fondo/79125.jpg");
+ background-repeat: no-repeat;
+ background-position: center center;
+ 
+background-attachment: fixed;
+ background-size:cover;
+
+}
+nav a{
+      text-decoration:none;
+      color:inherit;
+      font-size:21px;
+      }
+
+nav li{
+      display:inline-block;
+      width:150px;
+      height:30px;
+      padding:5px 10px;
+      background-color:#000;
+      border:1px solid #000;
+      text-align:center;
+      color:#fff;
+      position:relative;
+}
+
+nav li:hover{
+      background-color:#fff;
+      color:#000;
+      }
+
+nav li>ul{
+      display:none;
+      }
+
+nav li:hover>ul{
+      display:block;
+      position:absolute;
+      top:30px;
+      left:0px;
+}
+}
+nav a{
+      text-decoration:none;
+      color:inherit;
+      font-size:14px;
+      }
+
+nav li{
+      display:inline-block;
+      width:150px;
+      height:30px;
+      padding:5px 10px;
+      background-color:#003893;
+      border:1px solid #000;
+      text-align:center;
+      color:#fff;
+      position:relative;
+}
+
+nav li:hover{
+      background-color:#fff;
+      color:#000;
+      }
+
+nav li>ul{
+      display:none;
+      }
+
+nav li:hover>ul{
+      display:block;
+      position:absolute;
+      top:30px;
+      left:0px;
+}
